@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2023-11-28 094310](https://github.com/ramsai22/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319855/c52b9ffd-ea35-4da7-9937-b10f0119a930)
+
+### Name:paida ram sai
+### Register Number:23007931
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
